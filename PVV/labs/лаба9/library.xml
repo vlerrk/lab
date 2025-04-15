@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="library.xsd">
+  <book id="b1">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+    <genre>Dystopian</genre>
+    <price>550.00</price>
+  </book>
+  <book id="b2">
+    <title>Преступление и наказание</title>
+    <author>Fyodor Dostoevsky</author>
+    <year>1866</year>
+    <genre>Novel</genre>
+    <price>450.50</price>
+  </book>
+  <book id="b3">
+    <title>Мастер и Маргарита</title>
+    <author>Mikhail Bulgakov</author>
+    <year>1967</year>
+    <genre>Fantasy</genre>
+    <price>600.00</price>
+  </book>
+</library>
