@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"/>
+    <title>NYT > Home Page</title>
+    <link>https://www.nytimes.com</link>
+    <description>New York Times Home Page RSS Feed</description>
+    <language>en-us</language>
+    <copyright>Copyright 2024 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Breaking News: Major Event Occurs</title>
+      <link>https://nytimes.com/article123</link>
+      <guid isPermaLink="true">https://nytimes.com/article123</guid>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+      <category>World</category>
+      <description>Details about the event...</description>
+    </item>
+    <item>
+      <title>Technology Advancements in 2024</title>
+      <link>https://nytimes.com/article456</link>
+      <guid isPermaLink="false">article456</guid>
+      <pubDate>Mon, 01 Jan 2024 09:30:00 GMT</pubDate>
+      <category>Technology</category>
+      <description>Latest tech trends...</description>
+    </item>
+  </channel>
+</rss>
